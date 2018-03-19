@@ -1,0 +1,4 @@
+3
+https://nl.wikipedia.org/wiki/Hoofdpagina
+https://stackoverflow.com/questions/4716503/reading-a-plain-text-file-in-java
+https://nl.wikipedia.org/api/

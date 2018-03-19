@@ -1,0 +1,4 @@
+https://nl.wikipedia.org/api/
+https://nl.wikipedia.org/w/api.php
+https://nl.wikipedia.org/api/rest_v1/?doc
+https://wikimediafoundation.org/wiki/Developer_app_guidelines

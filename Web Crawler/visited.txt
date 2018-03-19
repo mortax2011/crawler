@@ -1,0 +1,5 @@
+https://nl.wikipedia.org/wiki/Hoofdpagina
+https://stackoverflow.com/questions/4716503/reading-a-plain-text-file-in-java
+https://stackoverflow.com
+https://nl.wikipedia.org/api/
+https://nl.wikipedia.org/wiki/Hoofdpagina#mw-head
